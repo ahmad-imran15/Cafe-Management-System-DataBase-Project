@@ -1,4 +1,4 @@
-# Cafe-Managmnet-System-DataBase-Project
+# Cafe-Management-System-DataBase-Project
 A whole Cafe management system in Visual studio in C# with .Net Develoipment along with DataBase connected in My SQL. 
 
 Basically I had made the cafe Management System in C# also know as C sharp. I had used Visual Studio. And in that i had used .Net Development architecture. For the Databse i had use MY SQL system. So this project is full implemnted and integrated with the database. 
